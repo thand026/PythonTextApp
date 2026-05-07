@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.ST10469153_ThandoBhembe_RegistrationAndLogin_PROG5121.ST10469153_ThandoBhembe_RegistrationAndLogin_PROG5121Test
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.090 s -- in com.mycompany.ST10469153_ThandoBhembe_RegistrationAndLogin_PROG5121.ST10469153_ThandoBhembe_RegistrationAndLogin_PROG5121Test
